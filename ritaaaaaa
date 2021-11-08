@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table align="center" border="1" width="100" height="100" cellpadding="1">
+        <tr>
+            <td colspan="3" align="center">作業:HTML表格</td>
+        </tr>
+        <tr>
+            <td rowspan="3" width="100"><img src="https://fakeimg.pl/100x100/ff0000"></td>
+            <td>班級</td>
+            <td>休閒1A</td>
+        </tr>
+        <tr>
+            <td>姓名</td>
+            <td>吳庭儀</td>
+        </tr>
+        <tr>
+            <td>學號</td>
+            <td>3411007020</td>
+        </tr>
+    </table>
+</body>
+</html>
